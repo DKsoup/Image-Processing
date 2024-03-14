@@ -10,7 +10,7 @@ Image noise reduction
 
 Color patch recognition
 
-# Picture examples:
+# Picture Examples:
 
 ![noise_1](https://github.com/DKsoup/Image-Processing/assets/123116278/f50e9517-4594-4a26-a78f-e70629954092)
 ![proj_1](https://github.com/DKsoup/Image-Processing/assets/123116278/41a88275-7545-4485-953d-3caec7c61c2b)
